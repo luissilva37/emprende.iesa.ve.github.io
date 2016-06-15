@@ -1,0 +1,14 @@
+/* Opacidad */
+.opacidad {
+  opacity: 0.5;
+}
+/* Imagen Reducida */
+.imagen-reducida {
+  width: 700px;
+  height: 350px;
+}
+/* Imagen Inforgrafía */
+.imagen-infografia {
+  width: 700px;
+  height: 700px;
+}
